@@ -1,8 +1,8 @@
 class DevinCli < Formula
   desc "Unofficial CLI for Devin AI"
   homepage "https://github.com/revanthpobala/devin-cli"
-  url "https://files.pythonhosted.org/packages/source/d/devin-cli/devin_cli-1.1.0.tar.gz"
-  sha256 "2a36c90baa574d1ffdefe1dcf7bc2d6854a406800435850c16b89a342d6f6196"
+  url "https://files.pythonhosted.org/packages/source/d/devin-cli/devin_cli-1.1.6.tar.gz"
+  sha256 "47b5fe484dbbdb7c0f3a16b75bc32d1e1887bd7be17a59ac4cd1441f8d81896a"
   license "MIT"
 
   depends_on "python@3.12"
